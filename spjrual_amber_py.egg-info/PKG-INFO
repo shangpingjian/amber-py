@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: spjrual-amber-py
+Version: 0.0.1
+Summary: a Blockchain-related projects
+Home-page: https://github.com/me/myproject
+Author: Awesome Soul
+Author-email: spjrual <spjrual@outlook.com>
+License: MIT
+Project-URL: Homepage, https://github.com/shangpingjian/amber-py
+Project-URL: Bug Tracker, https://github.com/shangpingjian/amber-py/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 📦 setup.py (for humans)
 =======================
 
